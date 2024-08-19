@@ -1,7 +1,6 @@
 import json
 import pandoc
 import os
-import numpy as np
 from enum import Enum
 
 class ValueTypes(Enum):
